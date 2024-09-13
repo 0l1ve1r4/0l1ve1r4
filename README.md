@@ -8,8 +8,6 @@
 
 </center>
 
-**\>\_** **_Come on in, [check out my blog =)](https://iyksh.github.io)_**
-
 **\>\_** I am actively working on [ByteOS](https://github.com/iyksh/ByteOS) (a operating system for the i686 architecture).
 
 **\>\_** lately flirting with the idea of ​​cybersec in networking and tools _(reverse engineering is cool)_.
