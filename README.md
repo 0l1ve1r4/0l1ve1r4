@@ -14,17 +14,11 @@
 
 If you have **job-related** inquiries, please don't hesitate to connect with me via [e-mail](mailto:gssantoz2012@gmail.com).
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,c,cpp,rust,python,java,bash,git,neovim,latex&perline=10" alt="PlayNexus Database" style="width: 50%;">
 
-✨ Known cool tools:
+<p align="center">
+    <strong>“An idiot admires complexity, a genius admires simplicity.”</strong>
+  </p>
 
-<center>
-
----
-
-
-<img align="center" src="https://skillicons.dev/icons?i=linux,c,cpp,rust,python,java,bash,git,neovim,latex&perline=10">
-
----
-
-</center>
-
+</div>
