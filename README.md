@@ -12,6 +12,4 @@ If you have **job-related** inquiries, please don't hesitate to connect with me 
 
 <img src="https://skillicons.dev/icons?i=linux,c,cpp,rust,python,java,bash,git,neovim,latex&perline=10" alt="PlayNexus Database" style="width: 50%;">
 
-> “An idiot admires complexity, a genius admires simplicity.” ― Terry A. Davis
-
 </div>
