@@ -6,7 +6,7 @@
  
 **\>\_** I am actively working on [ByteOS](https://github.com/iyksh/ByteOS) (a operating system for the i686 architecture).
 
-**\>\_** lately flirting with the idea of ​​cybersec in networking and tools _(reverse engineering is cool)_.
+**\>\_** For more info about me, [check my site](https://0l1ve1r4.netlify.app/).
 
 If you have **job-related** inquiries, please don't hesitate to connect with me via [e-mail](mailto:gssantoz2012@gmail.com).
 
