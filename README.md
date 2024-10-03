@@ -3,8 +3,6 @@
 ---
 
 <div align="center">
- 
-**\>\_** I am actively working on [ByteOS](https://github.com/iyksh/ByteOS) (a operating system for the i686 architecture).
 
 **\>\_** For more info about me, [check my site](https://0l1ve1r4.netlify.app/).
 
