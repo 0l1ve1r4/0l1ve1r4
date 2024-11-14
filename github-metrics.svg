@@ -40,12 +40,12 @@
   <b>    7</b> issues opened
   <b>   23</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C           </b> [############        ] 55.99%
-<b>PYTHON      </b> [######              ] 26.76%
-<b>JAVASCRIPT  </b> [##                  ] 5.85 %
+<div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C           </b> [############        ] 56.07%
+<b>PYTHON      </b> [######              ] 26.71%
+<b>JAVASCRIPT  </b> [##                  ] 5.84 %
 <b>JAVA        </b> [#                   ] 2.81 %
 <b>RUST        </b> [#                   ] 2.45 %
-<b>HTML        </b> [#                   ] 2.23 %
+<b>HTML        </b> [#                   ] 2.22 %
 <b>MAKEFILE    </b> [#                   ] 1.98 %
 <b>CSS         </b> [#                   ] 1.93 %
 </div>
