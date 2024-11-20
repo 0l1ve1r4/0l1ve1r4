@@ -34,19 +34,19 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  715</b> commits
+  <b>  718</b> commits
   <b>    1</b> pull request reviewed
   <b>   12</b> pull requests opened
   <b>    6</b> issues opened
   <b>   23</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C           </b> [############        ] 56.21%
-<b>PYTHON      </b> [######              ] 26.62%
-<b>JAVASCRIPT  </b> [##                  ] 5.82 %
-<b>JAVA        </b> [#                   ] 2.80 %
-<b>RUST        </b> [#                   ] 2.44 %
-<b>HTML        </b> [#                   ] 2.22 %
-<b>MAKEFILE    </b> [#                   ] 1.97 %
+<div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C           </b> [############        ] 56.08%
+<b>PYTHON      </b> [######              ] 26.56%
+<b>JAVASCRIPT  </b> [##                  ] 5.81 %
+<b>JAVA        </b> [#                   ] 3.02 %
+<b>RUST        </b> [#                   ] 2.43 %
+<b>HTML        </b> [#                   ] 2.21 %
+<b>MAKEFILE    </b> [#                   ] 1.96 %
 <b>CSS         </b> [#                   ] 1.92 %
 </div>
 <div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># ncal -MB5</div><div class="stdout"><div class="isocalendar">
