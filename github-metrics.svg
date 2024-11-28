@@ -34,17 +34,17 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  734</b> commits
+  <b>  735</b> commits
   <b>    1</b> pull request reviewed
   <b>   12</b> pull requests opened
   <b>    6</b> issues opened
   <b>   23</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C           </b> [###########         ] 54.54%
-<b>PYTHON      </b> [######              ] 25.83%
-<b>JAVA        </b> [##                  ] 5.69 %
-<b>JAVASCRIPT  </b> [##                  ] 5.65 %
-<b>RUST        </b> [#                   ] 2.37 %
+<div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C           </b> [###########         ] 54.43%
+<b>PYTHON      </b> [######              ] 25.78%
+<b>JAVA        </b> [##                  ] 5.89 %
+<b>JAVASCRIPT  </b> [##                  ] 5.64 %
+<b>RUST        </b> [#                   ] 2.36 %
 <b>HTML        </b> [#                   ] 2.15 %
 <b>MAKEFILE    </b> [#                   ] 1.91 %
 <b>CSS         </b> [#                   ] 1.86 %
