@@ -36,7 +36,7 @@
 <pre><div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
   <b>  747</b> commits
   <b>    1</b> pull request reviewed
-  <b>   11</b> pull requests opened
+  <b>   12</b> pull requests opened
   <b>    6</b> issues opened
   <b>   23</b> issue comments
 </div>
@@ -983,13 +983,13 @@
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g>
-                    <g transform="translate(-3.4, 7.172413793103448)">
+                    <g transform="translate(-3.4, 6.9655172413793105)">
                       <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8275862068965516 0,1.8275862068965516 z"/>
-                      <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8275862068965516 1.7,2.8275862068965516 z"/>
+                      <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0344827586206895 0,2.0344827586206895 z"/>
+                      <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0344827586206895 1.7,3.0344827586206895 z"/>
                     </g></g></g></svg></div>
 <b>    1</b> consecutive day with commits
-<b>~2.05</b> commits per day in average
+<b>~2.06</b> commits per day in average
 </div>
 
 
