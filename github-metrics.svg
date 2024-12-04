@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  750</b> commits
+  <b>  754</b> commits
   <b>    1</b> pull request reviewed
   <b>   12</b> pull requests opened
   <b>    6</b> issues opened
@@ -47,7 +47,7 @@
 <b>RUST        </b> [#                   ] 2.34 %
 <b>HTML        </b> [#                   ] 2.13 %
 <b>MAKEFILE    </b> [#                   ] 1.89 %
-<b>CSS         </b> [#                   ] 1.84 %
+<b>CSS         </b> [#                   ] 1.85 %
 </div>
 <div class="stdin"><span class="ps1-path">0l1ve1r4@metrics</span>:<span class="ps1-location">~</span># ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
