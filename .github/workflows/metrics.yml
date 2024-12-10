@@ -26,7 +26,6 @@ jobs:
 
           # Options
           user: 0l1ve1r4
-          template: terminal
           base: activity
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
